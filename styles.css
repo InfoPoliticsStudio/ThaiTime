@@ -9,7 +9,7 @@ body {
     color: white;
     margin: 0;
 /*     font-family: "Sarabun", sans-serif; */
-    font-family: 'TimeTraveler', Arial, sans-serif;
+    font-family: 'TimeTraveler', Arial,"Sarabun", sans-serif;
 }
 
 .clock {
