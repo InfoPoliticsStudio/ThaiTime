@@ -15,3 +15,8 @@ body {
     font-size: 48px;
     text-align: center;
 }
+
+::selection {
+    background: #fff;
+    color: #800;
+}
