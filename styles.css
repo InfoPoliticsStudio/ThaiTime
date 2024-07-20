@@ -21,3 +21,7 @@ body {
     background: #fff;
     color: #800;
 }
+
+div#time {
+    font-weight: 900;
+}
